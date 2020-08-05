@@ -11,3 +11,8 @@ https://htmlpreview.github.io
 
 Usage:
 `http://htmlpreview.github.io/?<url>`
+
+## Interesting Websites
+
+Spurious Correlations
+https://www.tylervigen.com/spurious-correlations
