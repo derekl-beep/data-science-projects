@@ -1,0 +1,2 @@
+Deep Learning From Scratch with Tensorflow
+https://www.kaggle.com/derek1317/exercise-deep-learning-from-scratch?scriptVersionId=30036692
