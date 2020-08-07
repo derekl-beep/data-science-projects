@@ -1,7 +1,7 @@
 # data-science-projects
 This repo stores my data science / analytics projects
 
-- Multivariate Regression [View HTML](https://htmlpreview.github.io/?https://github.com/derekl-beep/data-science-projects/blob/master/04%20Multivariable%20Regression.html)
+- Multivariable Regression [View HTML](https://htmlpreview.github.io/?https://github.com/derekl-beep/data-science-projects/blob/master/04%20Multivariable%20Regression.html)
 
 
 ## HTML Preview Tool 
