@@ -9,7 +9,15 @@ This repo stores my data science / analytics projects
 
 - Hand gesture recongization using convolutional neural networks (CNN) [View notebook](https://htmlpreview.github.io/?https://github.com/derekl-beep/data-science-projects/blob/master/Deep%20Learning%20Notebooks/Tensorflow%20(CNN)/Convolution_model_Application_v1a.html)
 
+- Residual networks (ResNets), a very deep CNN [View notebook](https://htmlpreview.github.io/?https://github.com/derekl-beep/data-science-projects/blob/master/Deep%20Learning%20Notebooks/Tensorflow%20(CNN)/Residual_Networks_v2a.html)
 
+- Object detection for autonomous driving using you-only-look-once (YOLO) algorithm [View notebook](https://htmlpreview.github.io/?https://github.com/derekl-beep/data-science-projects/blob/master/Deep%20Learning%20Notebooks/Tensorflow%20(CNN)/Autonomous_driving_application_Car_detection_v3a.html)
+
+- 2D planar data classification with neural networks (NN) [View notebook](https://htmlpreview.github.io/?https://github.com/derekl-beep/data-science-projects/blob/master/Deep%20Learning%20Notebooks/Deep%20Learning/Planar_data_classification_with_onehidden_layer_v6b.html)
+
+- Tuning deep neural networks: regularization [View](https://htmlpreview.github.io/?https://github.com/derekl-beep/data-science-projects/blob/master/Deep%20Learning%20Notebooks/Tuning%20Deep%20NN/Regularization_v2a.html)
+
+- Tuning deep neural networks: different optimization methods [View](https://htmlpreview.github.io/?https://github.com/derekl-beep/data-science-projects/blob/master/Deep%20Learning%20Notebooks/Tuning%20Deep%20NN/Optimization_methods_v1b.html)
 
 ## HTML Preview Tool 
 
