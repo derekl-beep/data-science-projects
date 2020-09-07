@@ -7,6 +7,8 @@ This repo stores my data science / analytics projects
 
 - Image compression with fast Fourier transform (FFT) [View](https://htmlpreview.github.io/?https://github.com/derekl-beep/data-science-projects/blob/master/image-compression-fft.html)
 
+- Image compression with Wavelet Transform (WT) [View](https://htmlpreview.github.io/?https://github.com/derekl-beep/data-science-projects/blob/master/image-compression-wavelet.ipynb)
+
 ### Classical Machine Learning 
 - Multivariable regression [View](https://htmlpreview.github.io/?https://github.com/derekl-beep/data-science-projects/blob/master/04%20Multivariable%20Regression.html)
 
